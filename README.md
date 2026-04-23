@@ -1,4 +1,3 @@
-# portfolio
 Methu Portfolio Website
 📌 Project Title
 
@@ -58,10 +57,11 @@ Scroll-based active navigation highlight
 Hover animations and transitions
 Floating animation for profile image
 Clean reusable CSS classes
-  📁 Project Structure
-          /portfolio
-          │── portfolio.html
-          │── image.png
+📁 Project Structure
+/portfolio
+│── index.html
+│── favicon.png
+│── image.png
 ▶️ How to Run
 Download or clone the repository
 Open index.html in your browser
